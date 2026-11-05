@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-customers-and-sites-nuxt",
+  "capabilityKey": "liberusoftware/module-maintenance-customers-and-sites",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-maintenance-customers-and-sites-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/maintenance/nextjs/customers-and-sites.md",
+  "presentationPlan": "projects/maintenance/nuxt/customers-and-sites.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
